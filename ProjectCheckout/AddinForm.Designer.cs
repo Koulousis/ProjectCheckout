@@ -1,5 +1,5 @@
 ﻿
-namespace RevitCommand
+namespace ProjectCheckout
 {
 	partial class AddinForm
 	{

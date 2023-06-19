@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Autodesk.Revit.UI;
 
-namespace RevitCommand
+namespace ProjectCheckout
 {
 	public partial class AddinForm : Form
 	{
